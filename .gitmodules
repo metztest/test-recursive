@@ -1,0 +1,3 @@
+[submodule "test-A"]
+	path = test-A
+	url = https://github.com/tmetz/test-A
